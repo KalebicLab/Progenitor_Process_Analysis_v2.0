@@ -1,0 +1,5 @@
+Folder name	Image name	Process Id	Longest path name	process length	process euclidean length	length ratio
+CELL3	MAX_AreaList stack for area_list #47.tif	1	process-1-1	32.307	32.016	1.009
+CELL3	MAX_AreaList stack for area_list #47.tif	2	process-2-1	46.932	43.417	1.081
+CELL3	MAX_AreaList stack for area_list #47.tif	3	process-3-1	63.714	55.036	1.158
+CELL3	MAX_AreaList stack for area_list #47.tif	4	process-4-2	97.413	87.115	1.118
